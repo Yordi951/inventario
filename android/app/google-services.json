@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934962210726",
+    "project_id": "daylux-inventario",
+    "storage_bucket": "daylux-inventario.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934962210726:android:d2900f5dbc31f25c99d167",
+        "android_client_info": {
+          "package_name": "com.example.inventario_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkrjskqeJqntIa2zo1yEiZwAv6Jh7A0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
